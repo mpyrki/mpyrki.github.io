@@ -1,0 +1,118 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-27b2a4aa2f2829b60554.js"
+    ],
+    "/cennik": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/fala_uderzeniowa": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/hitop": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/hivamat": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/home_2": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/home_3": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/kontakt": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/laser_wysokoenergetyczny": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/masaz_wodny": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ],
+    "/tesla_stym": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.45b293ec.chunk.css",
+      "static/chunks/commons.8f3d7fea80217a7789d4.js",
+      "static/css/styles.0cb9555a.chunk.css",
+      "static/chunks/styles.a5c55df7e0ddebb991f2.js",
+      "static/runtime/main-3ec175a7e94dbab51030.js"
+    ]
+  }
+}
